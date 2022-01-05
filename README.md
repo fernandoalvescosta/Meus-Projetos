@@ -2,4 +2,4 @@
 
  Meus Projetos Acadêmicos
 
- Repositório onde se encontra alguns dos meus projetos da faculdade.
+ Repositório onde se encontra alguns dos meus projetos e atividades da faculdade.
